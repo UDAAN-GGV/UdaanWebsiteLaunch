@@ -60,7 +60,7 @@ html {
   right: 0;
   transform: scaleX(-1);
   height: 100vh;
-  z-index: 6;
+  z-index: 3;
 }
 
 
